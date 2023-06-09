@@ -5,7 +5,7 @@ My name is Phuwaset Sibta :), Student Mechatronic and Robotic LPTC , I love Tech
 
 *   🌍  I'm based in Lampang , Thailand
 *   ✉️  You can contact me at [phuwaset203@gmail.com](mailto:phuwaset203@gmail.com)
-*   🧠  I'm learning Robot Operating System (ROS2)
+*   🧠  I'm learning Robot Operating System
 
 ### Skills 
 <p align="left">
