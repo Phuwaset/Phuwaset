@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Phuwaset Sibta :)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 =========================================================================================================================================
 
-Student Mechatronic and Robotic LPTC , I love Technology and Robot
+My name is Phuwaset Sibta :), Student Mechatronic and Robotic LPTC , I love Technology and Robot
 
 *   🌍  I'm based in Lampang , Thailand
 *   ✉️  You can contact me at [phuwaset203@gmail.com](mailto:phuwaset203@gmail.com)
