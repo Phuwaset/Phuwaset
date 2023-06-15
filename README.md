@@ -25,7 +25,7 @@ My name is Phuwaset Sibta :), Student Mechatronic and Robotic LPTC , I love Tech
 
 ### Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phuwaset&count_private=true&show_icons=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Phuwaset&layout=compact) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phuwaset&count_private=true&show_icons=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Phuwaset&layout=compact) 
 
 
