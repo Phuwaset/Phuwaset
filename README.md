@@ -3,8 +3,6 @@
 
 My name is Phuwaset Sibta :), Student Mechatronic and Robotics LPTC , I love Technology and Robot
 
-*   🌍  I'm based in Lampang , Thailand
-*   ✉️  You can contact me at [phuwaset203@gmail.com](mailto:phuwaset203@gmail.com)
 *   🧠  I'm learning Robot Operating System ROS2
 <!-- 
 ### Skills 
@@ -18,10 +16,6 @@ My name is Phuwaset Sibta :), Student Mechatronic and Robotics LPTC , I love Tec
 
 </p>
                     
-### Socials
-                  
-<p align="left"> <a href="https://www.facebook.com/pun.tawesin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Phuwaset" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phuwaset&count_private=true&show_icons=true) -->
