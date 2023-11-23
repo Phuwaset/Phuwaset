@@ -16,8 +16,10 @@
 </p>
                     
 ### Badges
-
+![My github stats](https://github-readme-stats.vercel.app/api?username=Phuwaset&show_icons=true)
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phuwaset&count_private=true&show_icons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Phuwaset&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phuwaset)
+
+
 
 
