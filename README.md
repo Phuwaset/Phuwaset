@@ -3,8 +3,7 @@
 
 <!-- My name is Phuwaset Sibta :), Student Mechatronic and Robotics LPTC , I love Technology and Robot -->
 *   Hi, My name is Phuwaset. 
-*   🧠  I'm learning Robot Operating System , Student from Thilan
-I'm learning Robot Operating System , Student from Thiland 
+*   🧠  I'm learning Robot Operating System , Student from Thiland
 
 *   
 <!-- 
