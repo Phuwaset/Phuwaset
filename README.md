@@ -3,7 +3,7 @@
 
 <!-- My name is Phuwaset Sibta :), Student Mechatronic and Robotics LPTC , I love Technology and Robot -->
 *   Hi, My name is Phuwaset. 
-*   I love to create and lern technology programming and robotics.
+*   Technology Robotics and Automation. 
 <!-- 
 ### Skills 
 <p align="left">
