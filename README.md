@@ -1,7 +1,7 @@
 <!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
 
 <!-- My name is Phuwaset Sibta :), Student Mechatronic and Robotics LPTC , I love Technology and Robot -->
-*   Hi, My name is Phuwaset. 
+*   Hi, My name is Phu. 
 *   Technology Robotics and Automation. 
 <!-- 
 ### Skills 
