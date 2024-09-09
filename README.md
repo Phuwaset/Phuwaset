@@ -2,7 +2,7 @@
 
 <!-- My name is Phuwaset Sibta :), Student Mechatronic and Robotics LPTC , I love Technology and Robot -->
 *   Hi, My name is Phu.
-*   Student KMUTNB , MtT (Mechatronic Engineering)
+*   Student KMUTNB , MtT (Mechatronic)
 *   Robotics and Automation. 
     ## Skills 
 <p align="left">
