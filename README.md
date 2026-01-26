@@ -1,15 +1,34 @@
-<!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
+# 🤖 Phuwaset Sibta (Phu)
+**Mechatronic Technology Student at KMUTNB**
 
-<!-- My name is Phuwaset Sibta :), Student Mechatronic and Robotics LPTC , I love Technology and Robot --> S.Phuwaset
-*   Phu, Student from KMUTNB , MtT Mechatronic Technology
+---
+
+### 🛠 Tech Stack & Tools
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.ros.org/.artwork/distributions/humble/HumbleHawksbill.png" target="_blank" rel="noreferrer"><img src="https://docs.ros.org/.artwork/distributions/humble/HumbleHawksbill.png" width="36" height="36" alt="ROS2 Humble" /></a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuwaset&layout=compact&hide_border=true&langs_count=6" alt="Most Used Languages" />
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS%202-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
 
+### GitHub Statistics
 
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuwaset&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Phuwaset&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Phuwaset's Stats" />
+    </td>
+  </tr>
+</table>
