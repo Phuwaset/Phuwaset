@@ -20,7 +20,7 @@
 </p>
 
 
-### GitHub Statistics
+<!--### GitHub Statistics
 
 <table>
   <tr>
