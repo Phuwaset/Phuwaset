@@ -89,31 +89,10 @@ const anmol = {
 
 ```
 
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Phuwaset&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-📊 **This week I spent my time on** 
+ 
 
-```text
-⌚︎ Timezone: Asia/Calcutta
-
-💬 Languages: 
-ROS2                     6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28%
-Matlab                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28%
-Delphi                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-C/Ardino                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-Fronted Web              1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
-
-
-🔥 Skills: 
-WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-
-💻 Operating Systems: 
-Windows                                    2 hrs 30 mins      ███████████   30.0%
-💻 Operating Systems: 
-Linux (Ubuntu 22.04 LTS )                  8 hrs 0 mins       ██████████████████████   70.0%
-```
-<!--END_SECTION:waka-->
-
-<!-- These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Phuwaset&layout=compact&theme=radical" alt="Top Languages" />
+</div>
