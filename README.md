@@ -88,9 +88,10 @@ const anmol = {
 🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
 ```
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phuwaset&theme=radical)
 <div align="">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Phuwaset&show_icons=true&theme=radical" alt="GitHub Stats" />
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Phuwaset&layout=compact&theme=radical" alt="Top Languages" />
+  
 </div>
