@@ -48,7 +48,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Phuwaset](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello! I'm Phuwaset from Thailand. I want to start a leading company that combines Robotics with AI technology.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello World!
 
 <!-- ```javascript
 const anmol = {
@@ -75,7 +75,7 @@ const anmol = {
 };
 ``` -->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Hello! I'm Phuwaset from Thailand. I want to start a leading company that combines robotics and AI.</b> </em>
 
 ---
 <!--START_SECTION:waka-->
