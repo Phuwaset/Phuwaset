@@ -48,7 +48,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Phuwaset](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello! I'm Phuwaset from Thailand. I want to start a leading company that combines Robotics with AI technology.
 
 <!-- ```javascript
 const anmol = {
