@@ -88,7 +88,7 @@ const anmol = {
 🌙 Night      26 commits     █████████████████████████   100%
 
 ```
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phuwaset&theme=radical)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phuwaset&theme=radical)
 <div align="">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Phuwaset&show_icons=true&theme=radical" alt="GitHub Stats" />
 
