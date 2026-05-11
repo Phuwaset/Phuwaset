@@ -37,7 +37,7 @@
 
 
 -->
-<h2>(MtTE & RE)🙏🏻, Hi! I'm Phuwaset Sibta! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>(MtT)🙏🏻, Hi! I'm Phuwaset Sibta! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Student at <a href="https://cit.kmutnb.ac.th/en/mechatronics-engineering-technology/">KMUTNB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
